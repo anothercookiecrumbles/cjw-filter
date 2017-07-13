@@ -1,5 +1,5 @@
 import pandas as pd
-import wf
+
 class Importable:
   @staticmethod
 
@@ -16,5 +16,5 @@ class Importable:
         newtab = table[table[col]>value]
 
     return newtab
-    
+
 
