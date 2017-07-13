@@ -14,6 +14,7 @@ class Importable:
     colnames = list(table.columns)
     if col in colnames:
         newtab = table[table[col]>value]
-        
-    return table
+
+    return newtab
+    
 
