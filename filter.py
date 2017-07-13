@@ -2,6 +2,8 @@ import pandas as pd
 
 class Importable:
   @staticmethod
+  def event():
+    pass
 
   @staticmethod
   def render(wf_module, table):
