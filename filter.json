@@ -1,0 +1,26 @@
+{
+  "name": "Filter by Value",
+  "id_name": "filter_by_value",
+  "category" : "Analyze",
+  "description" : "Select rows where value is greater/lesser than a constant",
+  "parameters": [
+    {
+      "name": "Column",
+      "id_name" : "column",
+      "type": "string",
+      "default": ""
+    },
+    {
+      "name" : "Comparison",
+      "id_name" : "comparison",
+      "type" : "menu",
+      "menu_items" : "Greater|Lesser",
+      "default": "0"
+    },
+    {
+      "name": "Value",
+      "id_name" : "value",
+      "type": "string"
+    }
+  ]
+}
