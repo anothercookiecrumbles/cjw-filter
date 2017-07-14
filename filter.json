@@ -1,6 +1,6 @@
 {
-  "name": "Filter by Value",
-  "id_name": "filter_by_value",
+  "name": "Filter by Value 2",
+  "id_name": "filter_by_value_2",
   "category" : "Analyze",
   "description" : "Select rows where value is greater/lesser than a constant",
   "parameters": [
