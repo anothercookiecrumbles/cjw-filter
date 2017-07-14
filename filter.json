@@ -14,7 +14,7 @@
       "name" : "Comparison",
       "id_name" : "comparison",
       "type" : "menu",
-      "menu_items" : "Greater|Lesser",
+      "menu_items" : "Greater|Lesser|Equals",
       "default": "0"
     },
     {
