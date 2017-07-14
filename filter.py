@@ -6,7 +6,7 @@ class Importable:
     pass
 
   @staticmethod
-  def render(wf_module, table):
+  def ender(wf_module, table):
     if table is None:
       return None     # no rows to process
 
